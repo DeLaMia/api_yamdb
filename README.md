@@ -15,7 +15,7 @@ Django 2.2.19
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-https://github.com/Kethave1/api_yamdb
+https://github.com/DeLaMia/api_yamdb
 ```
 
 ```
